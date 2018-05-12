@@ -1,5 +1,5 @@
 # nodejs
 
-1. Install dependency
+## Install dependency
 
 For example: npm install express
