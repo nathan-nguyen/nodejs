@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Other nodejs project can be cloned from this project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathan-nguyen/nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathan-nguyen/nodejs/issues"
+  },
+  "homepage": "https://github.com/nathan-nguyen/nodejs#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
